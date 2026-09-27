@@ -9,6 +9,7 @@ The dashboard transforms business data into interactive insights to support perf
 ## 🗂️ Dashboard Pages
 
 ### 1. Executive Summary
+![Executive Summary](01-executive-summary.png)
 - Total Sales
 - Total Profit
 - Total Invoices
@@ -18,6 +19,7 @@ The dashboard transforms business data into interactive insights to support perf
 - Top products and customers
 
 ### 2. Salesman Performance
+![Salesman Performance](02-salesman-performance.png)
 - Sales by salesman
 - Profit by salesman
 - Quantity by salesman
@@ -26,23 +28,27 @@ The dashboard transforms business data into interactive insights to support perf
 - Detailed performance matrix
 
 ### 3. Product & Brand Performance
+![Product & Brand Performance](03-product-brand-performance.png)
 - Product performance analysis
 - Category and brand analysis
 - Sales and profit comparison
 - High-volume and low-margin product identification
 
 ### 4. Customer Dashboard
+![Customer Dashboard](04-customer-dashboard.png)
 - Top customer analysis
 - Customer trends
 - Repeat and one-time customer analysis
 - Customer and category insights
 
 ### 5. Sales Mode Dashboard
+![Sales Mode Dashboard](05-sales-mode-dashboard.png)
 - Cash, Credit and Sample sales
 - Monthly sales-mode trends
 - Sales-mode performance details
 
 ### 6. ABC / XYZ / FSN Analysis
+![ABC XYZ FSN Analysis](06-abc-xyz-fsn-analysis.png)
 - ABC classification
 - XYZ analysis
 - FSN analysis
