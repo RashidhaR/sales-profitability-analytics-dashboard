@@ -79,6 +79,7 @@ Google Sheets → Python/Pandas → MySQL → Power BI
 - Customer & Product Analysis
 - Sales & Profitability Analysis
 
+
 ## 👩‍💻 Author
 
 **Rashidha R**
